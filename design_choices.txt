@@ -1,0 +1,7 @@
+# Design Choices
+
+**Symbolism**: The logo features an isometric cube, representing the foundational structure and multi-faceted nature of digital and AI risk management. The solid geometric form conveys resilience and stability against modern threats.
+
+**Color Palette**: I strictly used the mandatory palette: Orange (#FF6B00) to signify urgency, innovation, and digital energy; Black (#000000) for authority, security, and professionalism; and White (#FFFFFF) for clarity and minimalist contrast.
+
+**Typography**: The text element utilizes 'Inter' (or a clean sans-serif fallback), a modern, highly legible typeface that evokes a "tech/education" aesthetic. The stark contrast between the bold "INSTITUTE OF" and the vibrant orange "DIGITAL RISK" emphasizes the core focus of the organization.
